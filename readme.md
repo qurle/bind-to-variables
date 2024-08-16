@@ -14,6 +14,6 @@ Plugin iterates over components in selection, and binding it width and height to
 ## **Problem? Idea? Kind words?**
 
 I accept feature suggestions and ideas to improve the plugin, let me know in the comments.
-Share some thouhts in comments or contact me via e-mail at [nick.denq@gmail.com](mailto:nick.denq@gmail.com?subject=<Bind%20Icons%20for%20Figma>) and [Telegram](http://t.me/qurle).
+Share some thoughts in comments or contact me via e-mail at [nick.denq@gmail.com](mailto:nick.denq@gmail.com?subject=<Bind%20Icons%20for%20Figma>) and [Telegram](http://t.me/qurle).
 
 ## <3
