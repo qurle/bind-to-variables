@@ -9,7 +9,7 @@ Select some layers and run it from the Quick Actions or Plugin menu.
 
 ## **How it works**
 
-Plugin iterates over compoentns in selection, and binding it width and height to equal local variables.
+Plugin iterates over components in selection, and binding it width and height to equal local variables.
 
 ## **Problem? Idea? Kind words?**
 
