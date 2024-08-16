@@ -1,17 +1,10 @@
 {
-  "name": "<Plugin name>",
+  "name": "Bind icons to variables",
   "id": "<000000000000000000>",
   "api": "1.0.0",
   "main": "dist/code.js",
   "editorType": [
     "figma"
   ],
-  "relaunchButtons": [
-    {
-      "command": "relaunch",
-      "name": "<do the stuff again>",
-      "multipleSelection": true
-    }
-  ],
-  "ui": "src/ui.html"
+  "documentAccess": "dynamic-page"
 }
